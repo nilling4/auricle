@@ -1,3 +1,7 @@
+# Devpost Link
+
+Check out our project on Devpost: [Auricle](https://devpost.com/software/auricle-1jh72x)
+
 # auricle
 
 This is a web application designed to assist users, especially those who are deaf or hard of hearing, by transforming audio recordings into written text and summarized notes. The application also provides additional functionality to create quizzes or practice exams from the transcribed notes, enhancing learning and accessibility.
